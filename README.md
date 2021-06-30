@@ -1,4 +1,4 @@
-# BN-TechnologyExperience-SoftwareDevelopmentSolutionCpp
+# BN-TechnologyExperience-Software Development Solution
 This is my solution to the software development challenge posed to the people taking on the BrightNetwork Internship experience. 
 I chose to do the software development task, I produced this over two days in response to the briefs. 
 
