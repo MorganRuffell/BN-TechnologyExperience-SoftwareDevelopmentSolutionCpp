@@ -10,7 +10,7 @@ https://github.com/internship-experience-uk/google-code-sample
 And then produce our own solutions to the tasks finishing the stubbed out methods. Inside of the video player class. 
 This is my solution to the requirements that google laid out.
 
-### Language Chosen 
+### Technical Information 
 - C++
 - IDE: Visual Studio 2019
   
